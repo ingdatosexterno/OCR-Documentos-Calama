@@ -1,6 +1,6 @@
 # OCR-Documentos-Calama
 
-Repositorio dedicado al desarrollo, procesamiento y exportación de PDF que contienen datos hidrológicos.
+git
 
 ---
 
